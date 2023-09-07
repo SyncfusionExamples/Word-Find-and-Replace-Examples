@@ -62,6 +62,8 @@ NuGet is the one of the easiest ways to download and install Syncfusion [Word li
 
 - **Documentation:** [Tables in Word document using Syncfusion Word library](https://help.syncfusion.com/file-formats/docio/working-with-tables?utm_source=github&utm_medium=listing&utm_campaign=github-word-find-and-replace-examples)
 
+- **GitHub Examples:** [Syncfusion Word library examples](https://github.com/SyncfusionExamples/DocIO-Examples)
+
 - **Online demo:** [Essential DocIO-Online demos](https://www.syncfusion.com/demos/fileformats/word-library?utm_source=github&utm_medium=listing&utm_campaign=github-word-find-and-replace-examples)
 
 - **Download:** [Syncfusion File Formats Controls](https://www.syncfusion.com/sales/products/fileformats?utm_source=github&utm_medium=listing&utm_campaign=github-word-find-and-replace-examples)
